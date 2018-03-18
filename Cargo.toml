@@ -3,6 +3,16 @@ name = "liutongshuo_decoding_macros_impl"
 version = "0.0.1"
 authors = ["LiuTongshuo <lqyhk1234@sina.com>"]
 
+description = "Still in development"
+documentation = "https://github.com/liutongshuo/liutongshuo_decoding_macros_impl"
+homepage = "https://github.com/liutongshuo/liutongshuo_decoding_macros_impl"
+repository = "https://github.com/liutongshuo/liutongshuo_decoding_macros_impl"
+readme = "README.fd"
+
+keywords = ["decode", "macros"]
+
+license = "MIT"
+
 [dependencies]
 proc-macro-hack = "0.4"
 
