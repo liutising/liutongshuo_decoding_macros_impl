@@ -1,6 +1,6 @@
 [package]
 name = "liutongshuo_decoding_macros_impl"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["LiuTongshuo <lqyhk1234@sina.com>"]
 
 description = "Still in development"
