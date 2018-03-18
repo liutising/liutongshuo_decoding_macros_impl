@@ -1,0 +1,10 @@
+[package]
+name = "liutongshuo_decoding_macros_impl"
+version = "0.0.1"
+authors = ["LiuTongshuo <lqyhk1234@sina.com>"]
+
+[dependencies]
+proc-macro-hack = "0.4"
+
+[lib]
+proc-macro = true
