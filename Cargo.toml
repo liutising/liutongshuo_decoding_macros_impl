@@ -7,7 +7,7 @@ description = "Still in development"
 documentation = "https://github.com/liutongshuo/liutongshuo_decoding_macros_impl"
 homepage = "https://github.com/liutongshuo/liutongshuo_decoding_macros_impl"
 repository = "https://github.com/liutongshuo/liutongshuo_decoding_macros_impl"
-readme = "README.fd"
+readme = "README.md"
 
 keywords = ["decode", "macros"]
 
